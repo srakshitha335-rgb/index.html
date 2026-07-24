@@ -21,4 +21,4 @@ TravelGo is a modern and responsive travel landing page built using HTML5 and CS
 - Flexbox
 - Responsive Web Design
 
-orget to give it a star!
+
